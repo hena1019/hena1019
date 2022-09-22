@@ -1,5 +1,5 @@
-[![MasterHead](https://jayamwebsolutions.com/img/website.gif)](https://hena1019.io)
-<h1 align="center">Hey There 👋, I'm Hena Chauhan</h1>
+[![MasterHead](https://jayamwebsolutions.com/img/website.gif)](https://hena1019.github.io/)
+<h1 align="center">Hi 👋, I'm Hena Chauhan</h1>
 <h3 align="center">A passionate frontend developer from Kakrapar, Gujarat.</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/200.gif">
 
