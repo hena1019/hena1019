@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hena1019&label=Profile%20views&color=0e75b6&style=flat" alt="hena1019" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://hena1019.github.io/](https://hena1019.github.io/)
 
-- 💬 Ask me about **JAVASCRIPT, CSS, HTML, C, C++, MS OFFICE, PYTHON**
+- 💬 Ask me about **JAVASCRIPT, CSS, HTML, C, C++, MS OFFICE, PYTHON, REACT, PHP, DART**
 
 - 📫 How to reach me **ctulsi627@gmail.com**
 
