@@ -1,7 +1,7 @@
 [![MasterHead](https://jayamwebsolutions.com/img/website.gif)](https://hena1019.github.io/)
 <h1 align="center">Hi 👋, I'm Hena Chauhan</h1>
 <h3 align="center">A passionate frontend developer from Kakrapar, Gujarat.</h3>
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/200.gif">
+<img align="right" alt="Coding" width="350" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/200.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hena1019&label=Profile%20views&color=0e75b6&style=flat" alt="hena1019" /> </p>
 
