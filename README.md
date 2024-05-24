@@ -11,6 +11,8 @@
 
 - 💬 Ask me about **JAVASCRIPT, CSS, HTML, C, C++, MS OFFICE, PYTHON, REACT, PHP, DART**
 
+- 💬 IDE's I know about **visual studio, android studio, dartpad, Google Collab, PyCharm, IDLE**
+
 - 📫 How to reach me **ctulsi627@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
